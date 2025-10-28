@@ -1,11 +1,12 @@
 {
-  "name": "eco-monitoring",
+  "name": "eco-monitoring-real",
   "version": "1.0.0",
-  "description": "Сайт мониторинга экологии",
+  "description": "Сайт мониторинга экологии с реальными API",
   "scripts": {
-    "build": "echo 'No build step needed'"
+    "build": "echo 'No build needed for static site'"
   },
   "dependencies": {
     "node-fetch": "^2.6.7"
   }
 }
+ 
