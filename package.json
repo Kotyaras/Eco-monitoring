@@ -1,0 +1,11 @@
+{
+  "name": "eco-monitoring",
+  "version": "1.0.0",
+  "description": "Сайт мониторинга экологии",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
